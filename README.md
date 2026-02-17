@@ -10,8 +10,9 @@ CS student | Passionate about **Full-Stack Software Development, Artificial Inte
 - **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Projects
-- **Findly:** Full-stack Lost & Found system (React, Node.js, MySQL)  
-- **Precision Timer:** A Digital Interactive Stopwatch (Java + Swing) 
+- **Findly:** Full-stack Lost & Found system (React, Node.js, MySQL)
+- **FinVault:** Full-stack Banking System (Java, Swing, PostgreSQL)  
+- **Precision Timer:** A Digital Interactive Stopwatch (Java + Swing)
 
 ### 📫 Contact
 - **Email:** abdullahaaa169@gmail.com 
