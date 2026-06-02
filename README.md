@@ -11,6 +11,7 @@ CS student | Passionate about **Full-Stack Software Development, Artificial Inte
 
 ### 🚀 Projects
 - **Findly:** Full-stack Lost & Found system (React, Node.js, MySQL)
+- **FinSight:** A Complete and Intelligent Financial System (React, Springboot, MySQL)
 - **FinVault:** Full-stack Banking System (Java, Swing, PostgreSQL)  
 - **Precision Timer:** A Digital Interactive Stopwatch (Java + Swing)
 
