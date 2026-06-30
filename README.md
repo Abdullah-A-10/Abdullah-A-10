@@ -20,4 +20,4 @@ CS student | Passionate about **Full-Stack Software Development, Artificial Inte
 - **LinkedIn:** https://www.linkedin.com/in/abdullah-aamir-3072102b3/
 
 ### ✨ Fun Fact
-**I write code** that works on the first try... in my dreams.
+⚡ **I write code** that works on the first try... in my dreams.
