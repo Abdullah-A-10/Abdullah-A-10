@@ -7,7 +7,7 @@ CS student | Passionate about **Full-Stack Software Development, Artificial Inte
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, Flask, MySQL, PostgreSQL  
 - **Languages:** Java, Javacript, C++, Python  
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, Postman
 
 ### 🚀 Projects
 - **Findly:** Full-stack Lost & Found system (React, Node.js, MySQL)
